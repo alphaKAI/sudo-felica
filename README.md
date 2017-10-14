@@ -45,7 +45,7 @@ $ sudo make install
 ```
 
 ## Configuration
-`sudo-felica` need the setting file as JSON format.  
+`sudo-felica` need create setting file as JSON format on `$HOME/.sudo_felica.json`.  
 Please make the file as follows:  
 
 ```json
